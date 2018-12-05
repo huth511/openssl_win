@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="openssl_win">
+    </qresource>
+</RCC>
