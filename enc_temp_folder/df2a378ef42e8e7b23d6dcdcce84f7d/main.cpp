@@ -7,13 +7,13 @@
 #include <QObject>
 #include <QDebug>
 
-#define USER_PUBPATH "pub.pem"
-#define USER_PRIVPATH "priv.pem"
-#define USER_INFO "info.txt"
-#define S_PUBPATH "s_pub.pem"
-#define S_PRIVPATH "s_priv.pem"
-#define AUTH_INFO "auth_info.pem"
-#define REG_INFO "register code.pem"
+#define USER_PUBPATH "d:/temp/pub.pem"
+#define USER_PRIVPATH "d:/temp/priv.pem"
+#define USER_INFO "d:/temp/info.txt"
+#define S_PUBPATH "d:/temp/s_pub.pem"
+#define S_PRIVPATH "d:/temp/s_priv.pem"
+#define AUTH_INFO "d:/temp/auth_info.pem"
+#define REG_INFO "d:/temp/register code.pem"
 
 //#pragma comment(lib,"libssl.lib")
 //#pragma comment(lib,"libcrypto.lib")
